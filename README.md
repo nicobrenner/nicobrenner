@@ -63,3 +63,4 @@
 </p>
 
 [Jeffy](https://github.com/nicobrenner/jeffy) · [CommandJobs](https://github.com/nicobrenner/commandjobs) · [lossy-git](https://github.com/nicobrenner/lossy-git) · [n8n-nodes-jeffy](https://github.com/nicobrenner/n8n-nodes-jeffy) · [Multilingual paper](https://github.com/nicobrenner/jeffy-massive-multi-language-paper)
+
