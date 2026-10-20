@@ -3,6 +3,12 @@
   <img alt="NICO BRENNER. github.com/nicobrenner. Principal R&amp;D Engineer at Vizient. Building Jeffy: 70 pretrained classifiers across 51 languages on CPU. 3x founder, UC Berkeley. Focus: multi-agent systems, RAG pipelines, autonomous agents. Before: Autopilot Reviews (CTO, 11 yrs), Padlet (Founding Eng), ClickFono (Founder, VOIP across LATAM)." src="assets/profile-dark.svg" width="860">
 </picture>
 
+### Projects
+
+[Jeffy](https://github.com/nicobrenner/jeffy) · [lossy-git](https://github.com/nicobrenner/lossy-git) · [n8n-nodes-jeffy](https://github.com/nicobrenner/n8n-nodes-jeffy) · [Multilingual paper](https://github.com/nicobrenner/jeffy-massive-multi-language-paper) · [CommandJobs](https://github.com/nicobrenner/commandjobs)
+
+### Links
+
 <p>
   <a href="https://www.linkedin.com/in/nicobrenner" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"></a>
   <a href="https://news.ycombinator.com/user?id=nico" title="Hacker News"><img src="https://img.shields.io/badge/Hacker%20News-F0652F?style=flat-square&logo=ycombinator&logoColor=white" height="28"></a>
@@ -62,5 +68,4 @@
   </picture></a>
 </p>
 
-[Jeffy](https://github.com/nicobrenner/jeffy) · [CommandJobs](https://github.com/nicobrenner/commandjobs) · [lossy-git](https://github.com/nicobrenner/lossy-git) · [n8n-nodes-jeffy](https://github.com/nicobrenner/n8n-nodes-jeffy) · [Multilingual paper](https://github.com/nicobrenner/jeffy-massive-multi-language-paper)
 
