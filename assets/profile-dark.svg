@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 600" width="860" role="img" aria-labelledby="title desc">
+  <title id="title">Nico Brenner – GitHub Profile</title>
+  <desc id="desc">Nicolas Brenner, @nicobrenner. Principal R&amp;D Engineer at Vizient. Building Jeffy: 70 classifiers across 51 languages on CPU. 3x founder, UC Berkeley.</desc>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation: none !important; }
+    }
+    text, tspan {
+      font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #e3ebe8;
+    }
+    .m { fill: #7d8f87; }
+    .a { fill: #e5a84b; }
+    .sec { fill: #c4b4e5; }
+    .k { fill: #eebd95; }
+    .s { fill: #c5dda8; }
+    .n { fill: #9dcced; }
+    .nm { font-size: 22px; font-weight: bold; }
+    .sm { font-size: 11px; }
+    .hd { font-size: 12px; }
+    .st { font-size: 12px; font-weight: bold; fill: #0d1a0f; }
+    .cur { animation: blink 1s step-end 3; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .tr { animation: type-in 0.8s steps(15) forwards; }
+    @keyframes type-in { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+    .tc { opacity: 0; animation: fi 0.3s 0.8s forwards; }
+    @keyframes fi { to { opacity: 1; } }
+  </style>
+
+  <!-- Background -->
+  <rect x="0.5" y="0.5" width="859" height="599" rx="10" fill="#101315" stroke="#3d4a44" stroke-width="1"/>
+
+  <!-- Tab bar -->
+  <line x1="0" y1="30" x2="860" y2="30" stroke="#3d4a44" stroke-width="1"/>
+  <text x="20" y="20" class="m" font-size="12px">0 nico</text>
+  <text x="92" y="20" class="a" font-size="12px">1 zsh</text>
+  <line x1="92" y1="28" x2="130" y2="28" stroke="#e5a84b" stroke-width="2"/>
+
+  <!-- Vertical divider -->
+  <line x1="310" y1="30" x2="310" y2="568" stroke="#3d4a44" stroke-width="1"/>
+
+  <!-- LEFT PANE -->
+  <text x="75" y="178" class="sm m"># jeffy classify</text>
+  <rect x="75" y="192" width="0" height="8" rx="4" fill="#e5a84b">
+    <animate attributeName="width" from="0" to="130" dur="0.4s" begin="1.2s" fill="freeze"/>
+  </rect>
+  <rect x="75" y="208" width="0" height="8" rx="4" fill="#c5dda8">
+    <animate attributeName="width" from="0" to="42" dur="0.3s" begin="1.4s" fill="freeze"/>
+  </rect>
+  <rect x="75" y="224" width="0" height="8" rx="4" fill="#9dcced">
+    <animate attributeName="width" from="0" to="10" dur="0.2s" begin="1.5s" fill="freeze"/>
+  </rect>
+
+  <text x="155" y="272" class="nm a" text-anchor="middle">NICO</text>
+  <text x="155" y="298" class="nm" text-anchor="middle">BRENNER</text>
+
+  <line x1="105" y1="318" x2="205" y2="318" stroke="#3d4a44" stroke-width="1"/>
+
+  <text x="155" y="340" class="hd m" text-anchor="middle">github.com/</text>
+  <text x="155" y="358" class="hd a" text-anchor="middle">nicobrenner</text>
+
+  <!-- RIGHT PANE -->
+  <text x="330" y="56" class="a">&#10095;</text>
+  <text x="348" y="56" class="tr"> cat nico.toml</text>
+  <rect x="464" y="43" width="8" height="15" fill="#e5a84b" class="cur"/>
+
+  <g class="tc">
+    <text x="330" y="88"><tspan class="sec">[user]</tspan></text>
+    <text x="330" y="106"><tspan class="k">name</tspan><tspan class="m"> = </tspan><tspan class="s">"Nicolas Brenner"</tspan></text>
+    <text x="330" y="124"><tspan class="k">location</tspan><tspan class="m"> = </tspan><tspan class="s">"Los Angeles, CA"</tspan></text>
+    <text x="330" y="142"><tspan class="k">education</tspan><tspan class="m"> = </tspan><tspan class="s">"UC Berkeley"</tspan></text>
+
+    <text x="330" y="178"><tspan class="sec">[now]</tspan></text>
+    <text x="330" y="196"><tspan class="k">role</tspan><tspan class="m"> = </tspan><tspan class="s">"Principal R&amp;D Engineer"</tspan></text>
+    <text x="330" y="214"><tspan class="k">company</tspan><tspan class="m"> = </tspan><tspan class="s">"Vizient"</tspan></text>
+    <text x="330" y="232"><tspan class="k">focus</tspan><tspan class="m"> = [</tspan></text>
+    <text x="330" y="250"><tspan class="m">    </tspan><tspan class="s">"multi-agent systems"</tspan><tspan class="m">,</tspan></text>
+    <text x="330" y="268"><tspan class="m">    </tspan><tspan class="s">"RAG pipelines"</tspan><tspan class="m">,</tspan></text>
+    <text x="330" y="286"><tspan class="m">    </tspan><tspan class="s">"autonomous agents"</tspan><tspan class="m">,</tspan></text>
+    <text x="330" y="304"><tspan class="m">]</tspan></text>
+
+    <text x="330" y="340"><tspan class="sec">[open_source]</tspan></text>
+    <text x="330" y="358"><tspan class="k">project</tspan><tspan class="m"> = </tspan><tspan class="s">"Jeffy"</tspan></text>
+    <text x="330" y="376"><tspan class="k">install</tspan><tspan class="m"> = </tspan><tspan class="s">"pip install jeffy-classify"</tspan></text>
+    <text x="330" y="394"><tspan class="k">classifiers</tspan><tspan class="m"> = </tspan><tspan class="n">70</tspan><tspan class="m">  </tspan><tspan class="m"># 19 tasks + 51 languages</tspan></text>
+    <text x="330" y="412"><tspan class="k">benchmark</tspan><tspan class="m"> = </tspan><tspan class="s">"94.3% banking77 vs 68% best LLM"</tspan></text>
+
+    <text x="330" y="448"><tspan class="sec">[before]</tspan></text>
+    <text x="330" y="466"><tspan class="k">autopilot</tspan><tspan class="m"> = </tspan><tspan class="s">"CTO, 11 yrs, millions of SMS"</tspan></text>
+    <text x="330" y="484"><tspan class="k">padlet</tspan><tspan class="m"> = </tspan><tspan class="s">"Founding Eng, 1M+ users"</tspan></text>
+    <text x="330" y="502"><tspan class="k">clickfono</tspan><tspan class="m"> = </tspan><tspan class="s">"Founder, VOIP across LATAM"</tspan></text>
+    <text x="330" y="520"><tspan class="k">startups</tspan><tspan class="m"> = </tspan><tspan class="n">3</tspan></text>
+
+    <text x="330" y="556" class="a">&#10095;</text>
+    <rect x="348" y="543" width="8" height="15" fill="#e5a84b" class="cur" style="animation-delay: 1s;"/>
+  </g>
+
+  <!-- Status bar -->
+  <rect x="12" y="578" width="836" height="14" rx="3" fill="#e5a84b"/>
+  <text x="24" y="589" class="st">[nicobrenner]</text>
+  <text x="370" y="589" class="st">0:profile*</text>
+  <text x="718" y="589" class="st">updated 2026-10-19</text>
+</svg>
